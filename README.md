@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhamad Rizky</h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+ <img src="https://raw.githubusercontent.com/mahmoud-eskandari/Animated-Tech-Gifs/main/Developer/Developer.gif" width="300" alt="developer-animation"/>
+</p>
 </p>
 
 <p align="center">
