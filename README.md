@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhamad Rizky</h1>
 <p align="center">
- <img src="https://raw.githubusercontent.com/mahmoud-eskandari/Animated-Tech-Gifs/main/Developer/Developer.gif" width="300" alt="developer-animation"/>
+  <img src="https://raw.githubusercontent.com/mahmoud-eskandari/Animated-Tech-Gifs/main/Developer/Developer.gif" width="300" alt="developer animation"/>
 </p>
 
 <p align="center">
@@ -14,9 +14,18 @@
 
 ## 🧰 My Skills:
 <p align="left">
+  <!-- Basic Web -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  
+  <!-- Design Tool -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </p>
 
 ---
