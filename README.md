@@ -4,7 +4,6 @@
 <p align="center">
  <img src="https://raw.githubusercontent.com/mahmoud-eskandari/Animated-Tech-Gifs/main/Developer/Developer.gif" width="300" alt="developer-animation"/>
 </p>
-</p>
 
 <p align="center">
   <b>Welcome to my GitHub Profile!</b><br>
