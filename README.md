@@ -1,31 +1,57 @@
-# Let's create so ✨
+## Hi there 👋
 
-## 🛠️ My Skills
+<h1 align="center">Hi 👋, I'm Muhamad Rizky</h1>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
 
-### 📊 GitHub Stats & Streak
-
-**3,169**  
-Total Contributions  
-*Dec 8, 2020 - Present*  
-
----
-
-**280**  
-Current Streak  
-*Oct 16, 2024 - Jul 22*  
+<p align="center">
+  <b>Welcome to my GitHub Profile!</b><br>
+  I'm a web developer who loves building awesome applications and learning new technologies 🚀
+</p>
 
 ---
 
-**280**  
-Longest Streak  
-*Oct 16, 2024 - Jul 22*  
+## 🧰 My Skills:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
-**💻 Most Used Languages**  
-- JavaScript 09.17%  
-- Python 7.30%  
-- PHP 9.76%  
-- CSS 6.24%  
-- HTML 7.47%  
-- Shell 0.00%  
+## 📈 GitHub Stats & Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamad-rizky&theme=tokyonight" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamad-rizky&layout=compact&theme=tokyonight" alt="top langs"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamad-rizky&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+
+---
+
+## 📫 Let's Connect:
+- ✉️ Email: muhamad.rizky@example.com *(ganti ke email aslimu jika mau)*
+- 💼 LinkedIn: [linkedin.com/in/muhamad-rizky](https://linkedin.com/in/muhamad-rizky) *(jika ada)*
+- 🌐 Portfolio: [muhamad-rizky.dev](https://muhamad-rizky.dev) *(jika ada)*
+
+---
+
+<!--
+*muhamad-rizky/muhamad-rizky* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
