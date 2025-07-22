@@ -35,9 +35,9 @@
 ---
 
 ## 📫 Let's Connect:
-- ✉️ Email: muhamad.rizky@example.com *(ganti ke email aslimu jika mau)*
-- 💼 LinkedIn: [linkedin.com/in/muhamad-rizky](https://linkedin.com/in/muhamad-rizky) *(jika ada)*
-- 🌐 Portfolio: [muhamad-rizky.dev](https://muhamad-rizky.dev) *(jika ada)*
+- ✉️ Email: rizkyfauzi062006@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhamad-rizky-747918335/
+- 🌐 Portfolio: portofolio-mrizky.vercel.app
 
 ---
 
