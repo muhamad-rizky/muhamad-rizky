@@ -1,16 +1,31 @@
-## Hi there 👋
+# Let's create so ✨
 
-<!--
-**muhamad-rizky/muhamad-rizky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ My Skills
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats & Streak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**3,169**  
+Total Contributions  
+*Dec 8, 2020 - Present*  
+
+---
+
+**280**  
+Current Streak  
+*Oct 16, 2024 - Jul 22*  
+
+---
+
+**280**  
+Longest Streak  
+*Oct 16, 2024 - Jul 22*  
+
+---
+
+**💻 Most Used Languages**  
+- JavaScript 09.17%  
+- Python 7.30%  
+- PHP 9.76%  
+- CSS 6.24%  
+- HTML 7.47%  
+- Shell 0.00%  
