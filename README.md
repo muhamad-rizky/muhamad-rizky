@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Muhamad Rizky</h1>
+<h1 align="center">Hi 👋, I'm Salman</h1>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/mahmoud-eskandari/Animated-Tech-Gifs@main/Developer/Developer.gif" width="300" alt="developer animation"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
 </p>
-
 
 <p align="center">
   <b>Welcome to my GitHub Profile!</b><br>
